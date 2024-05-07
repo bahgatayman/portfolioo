@@ -34,7 +34,7 @@ nav .togglebtn{
     width: 35px;
     height: 35px;
     position: absolute;
-    top:45px;
+    top:25px;
     right: 3%;
     z-index: 5;
     cursor: pointer;
